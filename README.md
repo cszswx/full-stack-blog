@@ -1,6 +1,4 @@
 <H1 align ="center" > FULL STACK BLOG  </h1>
-<h5  align ="center"> 
-Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -12,7 +10,7 @@ Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN)
 
 
 
-Jay Sun
+Jay Sun, Lio Zhang, Sofia Li
 ## Configuration and Setup
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
