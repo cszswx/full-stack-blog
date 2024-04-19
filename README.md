@@ -2,17 +2,8 @@
 <h2>Jay Sun, Lio Zhang, Sofia Li </h2>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
 
-
-
-
-## Configuration and Setup
+## Setup
 
 To run the code, in the first terminal
 
