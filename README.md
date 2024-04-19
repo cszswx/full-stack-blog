@@ -1,4 +1,5 @@
-<H1 align ="center" > FULL STACK BLOG  </h1>
+<h1 align ="center" > FULL STACK BLOG  </h1>
+<h5>Jay Sun, Lio Zhang, Sofia Li </h5>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -10,7 +11,7 @@
 
 
 
-Jay Sun, Lio Zhang, Sofia Li
+
 ## Configuration and Setup
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
