@@ -12,7 +12,7 @@ Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN)
 
 
 
-
+Jay Sun
 ## Configuration and Setup
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
