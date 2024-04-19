@@ -1,5 +1,5 @@
 <h1 align ="center" > FULL STACK BLOG  </h1>
-<h5>Jay Sun, Lio Zhang, Sofia Li </h5>
+<h2>Jay Sun, Lio Zhang, Sofia Li </h2>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
