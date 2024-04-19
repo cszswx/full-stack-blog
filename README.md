@@ -1,4 +1,4 @@
-<H1 align ="center" > MERN BLOG  </h1>
+<H1 align ="center" > FULL STACK BLOG  </h1>
 <h5  align ="center"> 
 Fullstack blogging application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
